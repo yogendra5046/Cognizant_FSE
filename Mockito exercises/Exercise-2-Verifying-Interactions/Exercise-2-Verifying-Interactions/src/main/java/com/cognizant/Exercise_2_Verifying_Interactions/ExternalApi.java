@@ -1,0 +1,5 @@
+package com.cognizant.Exercise_2_Verifying_Interactions;
+
+public interface ExternalApi {
+    void sendData();
+}
