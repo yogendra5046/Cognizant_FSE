@@ -4,5 +4,5 @@ bin/
 .classpath
 .project
 .metadata/
-*.class
 .scannerwork/
+*.class
