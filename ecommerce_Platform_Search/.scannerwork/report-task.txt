@@ -1,6 +1,0 @@
-projectKey=Java_practise
-serverUrl=http://localhost:9000
-serverVersion=26.7.0.124771
-dashboardUrl=http://localhost:9000/dashboard?id=Java_practise
-ceTaskId=8c708392-808b-4622-8238-bd5ee9161944
-ceTaskUrl=http://localhost:9000/api/ce/task?id=8c708392-808b-4622-8238-bd5ee9161944
